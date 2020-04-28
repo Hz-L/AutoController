@@ -5,6 +5,7 @@ clc
 u_1=0.0;u_2=0.0;
 y_1=0.0;y_2=0.0;
 randn('seed',100)
+
 num=randn(1,1000);
 randn('seed',1000)
 num1=randn(1,1000);
